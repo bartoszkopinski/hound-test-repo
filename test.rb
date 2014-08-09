@@ -1,5 +1,5 @@
-class Contrived
- def sample1()
-   puts ("this is a contrived example")
+class contrived
+   def sample1()
+     puts ("this is a contrived example")
+      end
     end
-  end
