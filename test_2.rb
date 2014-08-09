@@ -9,5 +9,7 @@ class a_bad_named_class
       return false
     end
     return nil
+
+    a ? 'test' : ""
   end
 end
